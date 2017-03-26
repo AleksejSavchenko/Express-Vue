@@ -1,4 +1,4 @@
-# express-vue-super-simple
+# express-vue
 
 To Use this just run
 `npm install`
