@@ -1,7 +1,7 @@
 {
-  "name": "express-vue-super-simple",
+  "name": "express-vue",
   "version": "1.0.0",
-  "description": "super simple example for express-vue",
+  "description": "example for express-vue",
   "main": "index.js",
   "directories": {
     "example": "examples"
